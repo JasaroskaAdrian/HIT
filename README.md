@@ -1,2 +1,3 @@
 # HIT
-The Home of IT
+
+The official Home of IT Project.
